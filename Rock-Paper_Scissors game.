@@ -1,9 +1,9 @@
 <?php
 
 
-		$countA=0;
-		$countB=0;
-		$draw=0;
+$countA=0;
+$countB=0;
+$draw=0;
 
 
 $a = array("Rock","Paper","Scissors");
@@ -80,12 +80,12 @@ $a = array("Rock","Paper","Scissors");
 	}
 
 
-	echo "player A: ".$countA." wins";
-	echo "<pre>";
-	echo "Player B: ".$countB." wins";
-	echo "<pre>";
-	echo  $draw. ' Games were A draw';
-
+		echo "player A: ".$countA." wins";
+		echo "<pre>";
+		echo "Player B: ".$countB." wins";
+		echo "<pre>";
+		echo  $draw. ' Games were A draw';
+	
 
 
 
